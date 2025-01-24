@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Widget" skin="BackgroundPopup" position="660 303 600 347" name="MainPanel">
+        <Property key="NeedKey" value="false"/>
+        <Property key="NeedMouse" value="true"/>
+        <Property key="InheritsAlpha" value="false"/>
+        <Widget type="TextBox" skin="TextBox" position_real="0.081666666666666665 0.14121037463976946 0.83166666666666667 0.14121037463976946">
+            <Property key="FontName" value="SM_HeaderLarge_Wide"/>
+            <Property key="TextAlign" value="Center"/>
+            <Property key="NeedKey" value="false"/>
+            <Property key="NeedMouse" value="false"/>
+            <Property key="Caption" value="TEXTURE TOOLE"/>
+        </Widget>
+        <Widget type="ItemBox" skin="InventoryItemBox2" position_real="0.081666666666666665 0.28242074927953892 0.84999999999999998 0.57636887608069165" name="ColorGrid">
+            <Property key="NeedKey" value="false"/>
+            <Property key="NeedDragDrop" value="false"/>
+        </Widget>
+        <Widget type="Button" skin="ButtonImage" position="170 155 150 60">
+            <Property key="ModeImage" value="true"/>
+            <Property key="ImageName" value="Wood"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

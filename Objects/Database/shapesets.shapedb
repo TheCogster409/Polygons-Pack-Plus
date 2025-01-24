@@ -1,0 +1,6 @@
+{
+   "shapeSetList" : [
+      "$CONTENT_DATA/Objects/Database/ShapeSets/wedges.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/glow.shapeset"
+   ]
+}

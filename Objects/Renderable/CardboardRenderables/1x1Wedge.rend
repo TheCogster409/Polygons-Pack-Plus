@@ -1,0 +1,17 @@
+{
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/Textures/Cardboard/cardboardDIF.tga",
+									"$CONTENT_DATA/Objects/Textures/Cardboard/cardboardASG.tga",
+									"$CONTENT_DATA/Objects/Textures/Cardboard/cardboardNOR.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/Mesh/1x1Wedge.fbx"
+					}
+                ]
+}

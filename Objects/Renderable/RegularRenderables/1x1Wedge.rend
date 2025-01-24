@@ -1,0 +1,17 @@
+{
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$CONTENT_DATA/Objects/Textures/Regular/regularDIF.tga",
+									"$CONTENT_DATA/Objects/Textures/Regular/regularASG.tga",
+									"$CONTENT_DATA/Objects/Textures/Regular/regularNOR.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$CONTENT_DATA/Objects/Mesh/1x1Wedge.fbx"
+					}
+                ]
+}

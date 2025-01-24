@@ -1,0 +1,15 @@
+{
+   "toolList" : [
+      {
+         "name" : "Texture Tool",
+         "previewRenderable" : "$GAME_DATA/Character/Char_Tools/Char_painttool/char_painttool.rend",
+         "previewRotation" : [ -1, 0, 0, 0, 0, 1, 0, 1, 0 ],
+         "script" : {
+            "class" : "TextureTool",
+            "data" : {},
+            "file" : "$CONTENT_DATA/Scripts/textureTool.lua"
+         },
+         "uuid" : "6a374a9e-daac-4658-96db-5d9a6382d52b"
+      }
+   ]
+}

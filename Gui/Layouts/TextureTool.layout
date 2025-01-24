@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Widget" skin="BackgroundPopup" position_real="0 0 0.3125 0.32407407407407407" name="BackPanel">
+        <Property key="NeedKey" value="false"/>
+        <Property key="NeedMouse" value="true"/>
+        <Property key="InheritsAlpha" value="false"/>
+        <Widget type="TextBox" skin="TextBox" position_real="0.083333333333333329 0.14285714285714285 0.83333333333333337 0.14285714285714285">
+            <Property key="Caption" value="TEXTURE TOOL"/>
+            <Property key="FontName" value="SM_HeaderLarge_Wide"/>
+            <Property key="TextAlign" value="Center"/>
+            <Property key="NeedKey" value="false"/>
+            <Property key="NeedMouse" value="false"/>
+        </Widget>
+        <Widget type="Widget" skin="ColorBackground" position_real="0.083333333333333329 0.29999999999999999 0.074999999999999997 0.12571428571428572">
+            <Widget type="ImageBox" skin="ImageBox" position_real="0.1111111111111111 0.11363636363636363 0.77777777777777779 0.77272727272727271" name="ColorVisual">
+                <Property key="NeedKey" value="false"/>
+                <Property key="NeedMouse" value="false"/>
+                <Property key="ImageResource" value="$CONTENT_6470dc24-b7af-425a-96d9-f35174b251bf\Gui\Previews\cardboard.png"/>
+                <Property key="Enabled" value="true"/>
+                <Property key="Visible" value="true"/>
+                <Property key="Alpha" value="255"/>
+            </Widget>
+        </Widget>
+        <Widget type="ImageBox" skin="ImageBox" position_real="0.36666666666666664 0.48571428571428571 0.54166666666666663 0.41428571428571431">
+            <Property key="ImageResource" value="$CONTENT_6470dc24-b7af-425a-96d9-f35174b251bf\Gui\Previews\regular.tga"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>

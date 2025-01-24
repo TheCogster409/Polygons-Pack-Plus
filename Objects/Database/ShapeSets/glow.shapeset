@@ -1,0 +1,27 @@
+{
+   "partList" : [
+      {
+         "color" : "EEEEEE",
+         "name" : "1x1 Wedge Glow",
+         "physicsMaterial" : "Plastic",
+         "renderable" : "$CONTENT_DATA/Objects/Renderable/GlowRenderables/1x1Wedge.rend",
+         "rotationSet" : "PropFull",
+         "scripted" : {
+            "classname" : "Polygon",
+            "data" : {
+               "shapeType" : "1x1 Wedge"
+            },
+            "filename" : "$CONTENT_DATA/Scripts/polygon.lua"
+         },
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "+Y",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "sticky" : "All",
+         "uuid" : "0b568ab3-7264-48bb-8928-d49ef0189ede"
+      }
+   ]
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Widget" skin="Panel2Skin_Dark" position_real="0.20000000000000001 0.20000000000000001 0.59999999999999998 0.59999999999999998">
+        <Widget type="Button" skin="TextureBox" position_real="0.3263888888888889 0.19135802469135801 0.34722222222222221 0.61728395061728392" align="Center">
+            <Property key="Alpha" value="255"/>
+            <Property key="Colour" value="0.584795 0.140214 0.140214"/>
+        </Widget>
+    </Widget>
+    <CodeGeneratorSettings/>
+</MyGUI>
