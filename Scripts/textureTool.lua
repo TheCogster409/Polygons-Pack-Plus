@@ -35,7 +35,6 @@ local function checkType(shapeType)
 end
 
 function TextureTool.client_onEquippedUpdate(self, primary, secondary, forceBuild)
-  print("hi")
 	local character = sm.localPlayer
 
   -- Selection Effect
@@ -88,13 +87,11 @@ function TextureTool.client_onEquippedUpdate(self, primary, secondary, forceBuil
 end
 
 function TextureTool.client_onToggle(self)
-  self.gui:open()
+  --self.gui:open()
 
   if self.textureType == "Glow" then
     self.textureType = "Regular"
   elseif self.textureType == "Regular" then
-    self.textureType = "Cardboard"
-  elseif self.textureType == "Cardboard" then
     self.textureType = "Glow"
   end
 	return true --true or false, default false

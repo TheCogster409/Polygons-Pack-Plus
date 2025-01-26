@@ -11,7 +11,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$CONTENT_DATA/Objects/Mesh/1x1Wedge.fbx"
+						"mesh": "$CONTENT_DATA/Objects/Mesh/Wedge/1x1x1.fbx"
 					}
                 ]
 }

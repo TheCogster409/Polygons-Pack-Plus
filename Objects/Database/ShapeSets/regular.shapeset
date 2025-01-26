@@ -1,10 +1,10 @@
 {
    "partList" : [
       {
-         "color" : "EEEEEE",
-         "name" : "1x1x1WedgeGlow",
+         "color" : "4A4A4A",
+         "name" : "1x1x1WedgeRegular",
          "physicsMaterial" : "Plastic",
-         "renderable" : "$CONTENT_DATA/Objects/Renderable/GlowRenderables/1x1x1WedgeGlow.rend",
+         "renderable" : "$CONTENT_DATA/Objects/Renderable/RegularRenderables/1x1x1WedgeRegular.rend",
          "rotationSet" : "PropFull",
          "scripted" : {
             "classname" : "Polygon",
@@ -21,7 +21,7 @@
             "z" : 1
          },
          "sticky" : "All",
-         "uuid" : "0b568ab3-7264-48bb-8928-d49ef0189ede"
+         "uuid" : "3308fb42-c1a9-420c-894f-ebdb9484b461"
       }
    ]
 }
